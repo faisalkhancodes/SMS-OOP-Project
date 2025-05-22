@@ -1,1 +1,1 @@
-# SMS OOP Project
+Student Management System OOP Semester Project
